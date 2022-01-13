@@ -1,8 +1,6 @@
-import java.awt.*;
-import java.awt.event.*;
-import java.awt.util.*;
-import javax.swing.*;
-import java.util.*;
+import java.awt.Color;
+
+import javax.swing.JFrame;
 
 public class GameFrame extends JFrame{
 	
